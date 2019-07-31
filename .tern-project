@@ -1,0 +1,14 @@
+{
+  "ecmaVersion": 8,
+  "libs": [
+    "chai",
+    "react",
+    "browser",
+    "underscore"
+  ],
+  "loadEagerly": [],
+  "dontLoad": [
+    "node_modules/**"
+  ],
+  "plugins": {}
+}
